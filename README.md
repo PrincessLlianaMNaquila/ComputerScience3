@@ -1,1 +1,1 @@
-COMPUTER SCIENCE 3
+ComputerScience3
